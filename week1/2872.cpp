@@ -11,8 +11,6 @@
 풀이 종료 시간 : 2025.09.19 / 10:48
 */
 #include <iostream>
-#define PARENT 0
-#define CHILD 1
 using namespace std;
 
 int N;
